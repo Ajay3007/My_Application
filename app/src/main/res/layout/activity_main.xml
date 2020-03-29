@@ -31,7 +31,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="#2A3640"
+        android:background="#2A3630"
         android:backgroundTint="#6A6565"
         android:text="My Application"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
