@@ -27,4 +27,16 @@
         tools:layout_editor_absoluteX="161dp"
         tools:layout_editor_absoluteY="443dp" />
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#2A3640"
+        android:backgroundTint="#6A6565"
+        android:text="My Application"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="#F4F2F2"
+        tools:layout_editor_absoluteX="74dp"
+        tools:layout_editor_absoluteY="16dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
